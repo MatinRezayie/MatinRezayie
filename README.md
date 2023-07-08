@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @MatinRezayie
-- 💻 Back-End developer (PHP & Laravel)
+👋 Hi, I’m @MatinRezayi
+💻 Back-End developer (PHP & Laravel)
